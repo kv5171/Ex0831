@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ex0831</string>
+    
+    <array name="classes">
+        <item>classes</item>
+        <item>class 1</item>
+        <item>class 2</item>
+        <item>class 3</item>
+        <item>class 4</item>
+    </array>
+</resources>
